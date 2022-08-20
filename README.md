@@ -9,4 +9,4 @@ samir-diff/samir-diff is a ✨ special ✨ repository because its `README.md` (t
 You can click the Preview link to take a look at your changes.
 --->
 
-<a href="https://app.daily.dev/_samir_diff"><img src="https://api.daily.dev/devcards/a48c0dbe17c245d4800e75c6f2634706.png?r=d9n" width="400" alt="Samir's Dev Card"/></a>
+<a href="https://app.daily.dev/_samir_diff"><img src="https://api.daily.dev/devcards/a48c0dbe17c245d4800e75c6f2634706.png?r=d9n" width="300" alt="Samir's Dev Card"/></a>
